@@ -1,0 +1,16 @@
+.git
+!.git/HEAD
+!.git/refs/heads/*
+.gitattributes
+.github/*
+.travis.yml
+cache/*
+CONTRIBUTING.md
+DEBUG
+Dockerfile
+phpcompatibility.xml
+phpcs.xml
+phpcs.xml
+scalingo.json
+tests/*
+whitelist.txt
